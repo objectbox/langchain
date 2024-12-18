@@ -56,6 +56,9 @@ packages:
   - name: langchain-nomic
     repo: langchain-ai/langchain
     path: libs/partners/nomic
+  - name: langchain-objectbox
+    repo: objectbox/langchain-objectbox
+    path: .
   - name: langchain-openai
     repo: langchain-ai/langchain
     path: libs/partners/openai
